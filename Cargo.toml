@@ -7,7 +7,7 @@ description = "A Tigerbeetle client for Rust"
 homepage = "https://www.tigerbeetle.com"
 repository = "https://www.github.com/typesend/tigerbeetle-rust"
 readme = "README.md"
-
+keywords = ["tigerbeetle", "accounting", "bookkeeping", "tax", "zig"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
