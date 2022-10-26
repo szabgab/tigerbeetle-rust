@@ -1,6 +1,8 @@
 # tigerbeetle-rust
 [TigerBeetle](https://github.com/tigerbeetledb/tigerbeetle) client for Rust.
 
+_Under Construction_
+
 ## Development Setup
 
 *Prerequisites:*
