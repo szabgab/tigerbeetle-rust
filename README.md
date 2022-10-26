@@ -6,7 +6,7 @@ _Under Construction_
 ## Development Setup
 
 *Prerequisites:*
-- rustc 1.62.1 (or possibly earlier, your mileage may vary)
+- rustc 1.62.1 (or possibly as early as 1.13, your mileage may vary)
 - zig 0.9.1
 
 ```sh

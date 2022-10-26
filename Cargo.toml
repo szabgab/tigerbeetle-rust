@@ -2,7 +2,14 @@
 name = "tigerbeetle-rust"
 version = "0.1.0"
 edition = "2021"
+license = "Apache-2.0"
+description = "A Tigerbeetle client for Rust"
+homepage = "https://www.tigerbeetle.com"
+repository = "https://www.github.com/typesend/tigerbeetle-rust"
+readme = "README.md"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+libc = "0.2"
