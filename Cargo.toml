@@ -5,7 +5,7 @@ edition = "2021"
 license = "Apache-2.0"
 description = "A Tigerbeetle client for Rust"
 homepage = "https://www.tigerbeetle.com"
-repository = "https://www.github.com/typesend/tigerbeetle-rust"
+repository = "https://github.com/typesend/tigerbeetle-rust"
 readme = "README.md"
 keywords = ["tigerbeetle", "accounting", "bookkeeping", "tax", "zig"]
 
